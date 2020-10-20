@@ -1,0 +1,8 @@
+main {
+  width: 1440px;
+  height: 900px;
+  background-color: #FFFFFF;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+}
